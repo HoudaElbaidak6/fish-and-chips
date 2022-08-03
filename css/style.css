@@ -116,6 +116,7 @@ article{
   display: inline-block;
   padding: 20px;
   vertical-align: top;
+  overflow: auto;
 }
 
 article img {
@@ -128,6 +129,7 @@ button{
   border: none;
   background-color: var(--secondary--color);
   color:white ;
+  float: right;
 }
 
 aside {
